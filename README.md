@@ -102,7 +102,7 @@ My goal is to build a career in **Artificial Intelligence and Machine Learning**
 ## 📫 Connect With Me
 
 - GitHub: [Srinivasulu572](https://github.com/Srinivasulu572)
-- LinkedIn: Add your LinkedIn profile here
+- LinkedIn: https://www.linkedin.com/in/nakka-srinivasulu-a0b23137b/?isSelfProfile=true
 
 ---
 
