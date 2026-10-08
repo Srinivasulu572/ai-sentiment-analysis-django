@@ -1,0 +1,42 @@
+{%load static %}
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Feedback History</title>
+    <link rel="stylesheet" href="{% static 'style.css' %}">
+</head>
+<body>
+    <div class="container">
+    <h1>Customer Feedback History</h1>
+
+    <table border="1" cellpadding="10">
+        <tr>
+            <th>ID</th>
+            <th>Review</th>
+            <th>Sentiment</th>
+            <th>Date</th>
+        </tr>
+
+        {% for feedback in feedbacks %}
+        <tr>
+            <td>{{ feedback.id }}</td>
+            <td>{{ feedback.review }}</td>
+            <td class="{{ feedback.sentiment }}">{{ feedback.sentiment }}</td>
+            <td>{{ feedback.created_at }}</td>
+        </tr>
+
+        {% empty %}
+        <tr>
+            <td colspan="4">No feedback found.</td>
+        </tr>
+        {% endfor %}
+
+    </table>
+
+    <br>
+
+    <a href="/">Back to Home</a>
+</div>
+
+</body>
+</html>

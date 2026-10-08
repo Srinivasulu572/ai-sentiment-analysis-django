@@ -1,0 +1,39 @@
+{% load static %}
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Sentiment Analysis</title>
+    <link rel="stylesheet" href="{% static 'style.css' %}">
+</head>
+     <body>
+
+    <div class="container">
+
+        <h1>Sentiment Analysis</h1>
+
+        {% if error %}
+            <p>{{ error }}</p>
+        {% endif %}
+
+        <form method="POST" action="/predict/">
+            {% csrf_token %}
+
+            <label>Enter your review:</label>
+            <br><br>
+
+            <textarea name="review" rows="5" cols="50"
+                placeholder="Enter your review here"></textarea>
+
+            <br><br>
+
+            <button type="submit">Predict Sentiment</button>
+
+            <br><br>
+
+            <a href="/history/">View Feedback History</a>
+        </form>
+
+    </div>
+
+</body>
+</html>
