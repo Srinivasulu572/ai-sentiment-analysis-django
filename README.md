@@ -81,13 +81,16 @@ A Django-based web application that uses **NLP and Machine Learning** to classif
 
 ### IBM SkillsBuild ML & Applied AI Internship — 2026
 
-Currently developing practical knowledge in:
+Successfully completed a **6-week Virtual ML & Applied AI Internship** through IBM SkillsBuild.
+
+During the internship, I gained practical exposure to:
 
 - Machine Learning
 - Supervised & Unsupervised Learning
 - Deep Learning
 - Reinforcement Learning
-- AI Applications
+- Artificial Intelligence Applications
+- Practical AI/ML concepts and tools
 ---
 
 ## 🎯 Career Goal
