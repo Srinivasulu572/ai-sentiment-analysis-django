@@ -88,7 +88,6 @@ Currently developing practical knowledge in:
 - Deep Learning
 - Reinforcement Learning
 - AI Applications
-
 ---
 
 ## 🎯 Career Goal
