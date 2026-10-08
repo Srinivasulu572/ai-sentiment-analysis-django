@@ -1,78 +1,107 @@
-# AI-Based Sentiment Analysis Web Application
+# Hi, I'm Srinivasulu 👋
 
-## Project Overview
+### AI & ML Enthusiast | Python | C++ | Django | NLP | Machine Learning
 
-This project is a web-based sentiment analysis application developed using Django, Python, Natural Language Processing (NLP), and Machine Learning.
+I'm a Computer Science student interested in **Artificial Intelligence, Machine Learning, Software Development, and Data Structures & Algorithms**.
 
-The application allows users to enter customer reviews and automatically classifies them into:
+I enjoy building practical projects and continuously improving my programming and problem-solving skills.
+
+---
+
+## 🚀 About Me
+
+- 🎓 Computer Science student
+- 🤖 Interested in Artificial Intelligence & Machine Learning
+- 🌐 Building web applications using Django
+- 🧠 Learning NLP and Machine Learning
+- 💻 Practicing Data Structures & Algorithms
+- 🗄️ Working with MySQL and SQL
+- 📚 Continuously learning and building projects
+
+---
+
+## 🛠️ Technical Skills
+
+### Programming Languages
+- Python
+- C++
+- C
+- Java
+- JavaScript
+
+### AI / Machine Learning
+- Machine Learning
+- Natural Language Processing
+- TF-IDF
+- Scikit-learn
+- Pandas
+- NumPy
+
+### Web Development
+- Django
+- HTML
+- CSS
+- JavaScript
+
+### Database
+- MySQL
+- SQL
+
+### Tools
+- Git
+- GitHub
+- VS Code
+- Code::Blocks
+
+### Core Concepts
+- Data Structures & Algorithms
+- Object-Oriented Programming
+- DBMS
+- Computer Networks
+
+---
+
+## 📌 Featured Project
+
+### 🤖 AI-Based Sentiment Analysis Web Application
+
+A Django-based web application that uses **NLP and Machine Learning** to classify customer reviews as:
 
 - Positive
 - Negative
 - Neutral
 
-The review and predicted sentiment are stored in a MySQL database and can be viewed through the feedback history page.
+**Technologies:** Python, Django, NLP, TF-IDF, Logistic Regression, MySQL
 
-## Technologies Used
+🔗 [View Project](https://github.com/Srinivasulu572/ai-sentiment-analysis-django)
 
-- Python
-- Django
-- Natural Language Processing (NLP)
-- TF-IDF
-- Logistic Regression
-- MySQL
-- HTML
-- CSS
+---
 
-## Main Features
+## 💼 Internship
 
-- Customer review input
-- Sentiment prediction
-- Positive, Negative, and Neutral classification
-- MySQL database storage
-- Feedback history
-- Input validation
-- Simple and user-friendly interface
+### IBM SkillsBuild ML & Applied AI Internship — 2026
 
-## Machine Learning Workflow
+Currently developing practical knowledge in:
 
-Dataset → Text Cleaning → Train/Test Split → TF-IDF → Logistic Regression → Prediction
+- Machine Learning
+- Supervised & Unsupervised Learning
+- Deep Learning
+- Reinforcement Learning
+- AI Applications
 
-## Application Workflow
+---
 
-User enters review → Django processes the review → TF-IDF converts the text → Machine Learning model predicts sentiment → Result is displayed → Feedback is stored in MySQL
+## 🎯 Career Goal
 
-## Dataset
+My goal is to build a career in **Artificial Intelligence and Machine Learning** while developing strong software engineering and problem-solving skills.
 
-The project uses a dataset containing 500 customer review records with sentiment labels.
+---
 
-## Model Performance
+## 📫 Connect With Me
 
-The Logistic Regression model achieved 99% accuracy on the held-out test dataset.
+- GitHub: [Srinivasulu572](https://github.com/Srinivasulu572)
+- LinkedIn: Add your LinkedIn profile here
 
-## Project Structure
+---
 
-```text
-sentiment_analysis/
-├── dataset/
-├── ml_model/
-├── training/
-├── sentiment/
-├── templates/
-├── static/
-├── manage.py
-├── requirements.txt
-├── README.md
-└── .gitignore
-
-## Future Enhancements
-
-- User authentication
-- Dashboard and analytics
-- Data visualization
-- Larger real-world datasets
-- Deployment to a cloud platform
-- Advanced Machine Learning models
-
-## Author
-
-Nakka Srinivasulu
+⭐ Feel free to explore my repositories and projects!
